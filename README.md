@@ -1,7 +1,7 @@
 ### Fan Wang
-## Welcome To My Page!
+### Welcome To My Page!
 
-## Here is My CV!
+### Here is My CV!
 [CV](https://docs.google.com/document/d/1BxI9TFW7nrx-zwSX3H6tmUukovFyvXQY5rn1hqhPE_k/edit?usp=sharing)
 
 ## Projects that I have done!
