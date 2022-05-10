@@ -6,5 +6,14 @@
 
 # Projects that I have done!
 [Volume Renderer](https://github.com/FanWang10/VolumeRendering)
-[Result](https://github.com/FanWang10/VolumeRendering/blob/main/task2_a_YZ_216.png)
+![Result](https://github.com/FanWang10/VolumeRendering/blob/main/task2_a_YZ_216.png)
+
+[Particle Tracer](https://github.com/FanWang10/ParticleTracing)
+![Result](https://github.com/FanWang10/ParticleTracing/blob/main/rk4.png)
+
+[Ray Tracer](https://github.com/FanWang10/RayTracer)
+![Result](https://github.com/FanWang10/RayTracer/blob/main/image9.ppm)
+
+[Mission Ecopossible](https://github.com/karen-ly/MissionEcopossible)
+![Screenshot](https://github.com/karen-ly/MissionEcopossible/blob/master/sortingGame.gif)
 
